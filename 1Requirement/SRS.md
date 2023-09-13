@@ -1,5 +1,4 @@
-# Software Requirements Specification
-## For <project name>
+# Yet to be Completed
 
 Version 0.1  
 Prepared by <author>  
