@@ -5,7 +5,7 @@
 
 Version: **1.10.0**  
 Prepared by: **Tejas Jain**  
-Contact: 1tejasjain@gmail.com
+Contact: 1tejasjain@gmail.com <br>
 Date Created: **September 02, 2023**
 
 Documentation Structure
